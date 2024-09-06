@@ -1,83 +1,99 @@
 {
-  "ayuntamientos": [
+  "chozas": [
     {
-      "id": 1,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths1.webp",
+      "id_choza": 1,
+      "ths_nivel": 1,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths1.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 2,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths2.webp",
+      "id_choza": 2,
+      "ths_nivel": 2,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths2.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 3,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths3.webp",
+      "id_choza": 3,
+      "ths_nivel": 3,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths3.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 4,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths4.webp",
+      "id_choza": 4,
+      "ths_nivel": 4,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths4.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 5,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths5.webp",
+      "id_choza": 5,
+      "ths_nivel": 5,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths5.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 6,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths6",
+      "id_choza": 6,
+      "ths_nivel": 6,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths6",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 7,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths7.webp",
+      "id_choza": 7,
+      "ths_nivel": 7,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths7.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 8,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths8.webp",
+      "id_choza": 8,
+      "ths_nivel": 8,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths8.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 9,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths9.webp",
+      "id_choza": 9,
+      "ths_nivel": 9,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths9.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 10,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths10.webp",
+      "id_choza": 10,
+      "ths_nivel": 10,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths10.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 11,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths11.webp",
+      "id_choza": 11,
+      "ths_nivel": 11,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths11.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 12,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths12.webp",
+      "id_choza": 12,
+      "ths_nivel": 12,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths12.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 13,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths13",
+      "id_choza": 13,
+      "ths_nivel": 13,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths13",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 14,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths14.webp",
+      "id_choza": 14,
+      "ths_nivel": 14,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths14.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 15,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths15.webp",
+      "id_choza": 15,
+      "ths_nivel": 15,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths15.webp",
       "tipo_aldea": "ayuntamiento"
     },
     {
-      "id": 16,
-      "url_imagen": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths16.webp",
+      "id_choza": 16,
+      "ths_nivel": 16,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths16.webp",
       "tipo_aldea": "ayuntamiento"
     }
   ]
