@@ -155,6 +155,66 @@
       "ths_nivel": 10,
       "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall10.webp",
       "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 27,
+      "ths_nivel": 1,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-1.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 28,
+      "ths_nivel": 2,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-2.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 29,
+      "ths_nivel": 3,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-3.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 30,
+      "ths_nivel": 4,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-4.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 31,
+      "ths_nivel": 5,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-5.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 32,
+      "ths_nivel": 6,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-6.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 33,
+      "ths_nivel": 7,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-7.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 34,
+      "ths_nivel": 8,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-8.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 35,
+      "ths_nivel": 9,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-9.webp",
+      "tipo_aldea": "Aldea Nocturna"
+    },
+    {
+      "id_choza": 36,
+      "ths_nivel": 10,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_puesto_otto/outpost-stage2-10.webp",
+      "tipo_aldea": "Aldea Nocturna"
     }
   ]
 }
