@@ -95,6 +95,66 @@
       "ths_nivel": 16,
       "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/netuclash/ths-ayuntamiento/ths16.webp",
       "tipo_aldea": "ayuntamiento"
+    },
+    {
+      "id_choza": 17,
+      "ths_nivel": 1,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall1.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 18,
+      "ths_nivel": 2,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall2.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 19,
+      "ths_nivel": 3,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall3.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 20,
+      "ths_nivel": 4,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall4.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 21,
+      "ths_nivel": 5,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall5.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 22,
+      "ths_nivel": 6,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall6.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 23,
+      "ths_nivel": 7,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall7.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 24,
+      "ths_nivel": 8,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall8.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 25,
+      "ths_nivel": 9,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall9.webp",
+      "tipo_aldea": "Aldea del Constructor"
+    },
+    {
+      "id_choza": 26,
+      "ths_nivel": 10,
+      "ths_img": "https://res.cloudinary.com/dbe0nouku/image/upload/f_auto,q_auto/v1/ths_taller_constructor/Builder_Hall10.webp",
+      "tipo_aldea": "Aldea del Constructor"
     }
   ]
 }
